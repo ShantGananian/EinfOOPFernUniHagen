@@ -1,4 +1,4 @@
-<h1>Zeichenketten</h1>
+<h1>Zeichenketten Aufgabe</h1>
 <h2>Eselsuche</h2>
 <p>Viele Schulkinder spielen gerne mit der optischen Ähnlichkeit von Zahlen auf dem Taschenrechner und Buchstaben. Ein Beispiel hierfür ist der „Esel“ der sich ergibt, wenn man die Ziffernfolge <img src="https://i.upmath.me/svg/7353" alt="7353" /> in den Taschenrechner eingibt und ihn auf den Kopf stellt. Betrachten Sie die folgende Ziffernfolge. Wir wollen herausfinden wie viele Esel sich in der Ziffernfolge verstecken. Allerdings gibt es eine Schwierigkeit, manche Esel haben sich zu Gruppen von bis zu <img src="https://i.upmath.me/svg/100" alt="100" /> Eseln zusammengefunden. Wenn sich
 Esel an einer Stelle befinden, so steht an dieser Stelle der Ausdruck <img src="https://i.upmath.me/svg/n%5Ccdot7353" alt="n\cdot7353" />. Das heißt beispielsweise, dass die Ziffernfolge <img src="https://i.upmath.me/svg/14706%20%3D2%5Ccdot7353" alt="14706 =2\cdot7353" /> zwei Esel ergibt. Berechnen Sie die Anzahl der Esel in der folgenden Ziffernfolge:</p>
