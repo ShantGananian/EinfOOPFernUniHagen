@@ -18,6 +18,7 @@ public class Zeichenketten {
 //        String str = "7353";
 //        String input = "735324677353007727947142661770";
 //        String str = "7353";
+        
         int index = 0, count = 0;
 
         for (int n = 1; n <= 100; n++) {
