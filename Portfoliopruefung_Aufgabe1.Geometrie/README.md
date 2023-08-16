@@ -8,7 +8,7 @@ double[] x = new double[]{6,13,7,11,4,13,2,14,10,6,10,14,9,7,5,7,12,9,10,5,6,10,
 double[] y = new double[]{3,11,11,14,13,15,15,2,4,14,1,11,8,2,4,15,4,6,11,10,3,13,8,12,13,3,14,6,4,10,10,12,10,13,3,6,14,14,1,3,2,12,4,13,4,2,8,6,1,7}
 ```
 
-<p>Ermitteln Sie, wie viele Indexpaare <img src="https://i.upmath.me/svg/(i%2Cj)" alt="(i,j)" /> existieren, so dass <img src="https://i.upmath.me/svg/p_%7B1%7D%3D(x%5Bi%5D%2Cy%5Bi%5D)" alt="p_{1}=(x[i],y[i])" /> und <img src="https://i.upmath.me/svg/p_%7B2%7D%3D(x%5Bi%5D%2Cy%5Bi%5D)" alt="p_{2}=(x[i],y[i])" /> im oben beschriebenen Sinne ein Quadrat definieren. Geben Sie als Antwort die Zahl der so definierten Quadrate an.</p>
+<p>Ermitteln Sie, wie viele Indexpaare <img src="https://i.upmath.me/svg/(i%2Cj)" alt="(i,j)" /> existieren, so dass <img src="https://i.upmath.me/svg/p_%7B1%7D%3D(x%5Bi%5D%2Cy%5Bi%5D)" alt="p_{1}=(x[i],y[i])" /> und <img src="https://i.upmath.me/svg/p_%7B2%7D%3D(x%5Bi%5D%2Cy%5Bi%5D)" alt="p_{2}=(x[i],y[i])" /> im oben beschriebenen Sinne ein Quadrat definieren. Geben Sie als Antwort die Zahl der so definierten Quadraten an.</p>
 <p>Zur Überprüfung Ihrer Lösung:</p>
 <p>Wenn die Felder <img src="https://i.upmath.me/svg/x" alt="x" /> und <img src="https://i.upmath.me/svg/y" alt="y" />  wie folgt gegeben wären:</p>
 
