@@ -30,3 +30,5 @@ double[] xs = new double[]{2,4,10,24,33,15,100,7,12,44}
 ```java
 1.414213,2.0,3.162277,4.898979,5.744562,3.872983,10.000052,2.645751,3.464101,6.633249
 ```
+
+> [Meine Lösung](https://github.com/ShantGananian/EinfOOPFernUniHagen/blob/master/Portfoliopruefung_Aufgabe4.Algorithmik/src/main/java/Algorithmik.java)
