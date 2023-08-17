@@ -18,3 +18,5 @@ double[] y = new double[]{23,12,1,2,3,324,2,23,145,2,4,6,32,45,3,12,54,34};
 ```
 
 <p>so wäre die Ausgabe $6$.</p>
+
+> [Meine Lösung](https://github.com/ShantGananian/EinfOOPFernUniHagen/blob/master/Portfoliopruefung_Aufgabe1.Geometrie/src/main/java/Geometrie.java)
