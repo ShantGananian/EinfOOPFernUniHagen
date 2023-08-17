@@ -8,3 +8,5 @@ Esel an einer Stelle befinden, so steht an dieser Stelle der Ausdruck $n\cdot735
 ```
 
 <p>Um diese Aufgabe zu vereinfachen, gehen wir davon aus, dass sich in einer Teilziffernfolge gleichzeitig verschiedene Zahlen an Eseln verstecken können. Das heißt beispielsweise, dass die Ziffernfolge $735300$ sowohl $100$ Esel enthält, als auch $10$ als auch einen, also insgesamt $111$ Esel.</p>
+
+> [Meine Lösung](https://github.com/ShantGananian/EinfOOPFernUniHagen/blob/master/Portfoliopruefung_Aufgabe3.Zeichenketten/src/main/java/Zeichenketten.java)
